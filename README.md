@@ -26,7 +26,7 @@ uvicorn app.main:app --reload --port 8000
 ```
 
 Visit http://localhost:8000/docs for interactive API docs.
-
+Visit for deployed link:https://project-synapse-frontend-215504640371.asia-south1.run.app/
 ## Key endpoints (milestone 1 flow)
 
 | Step | Endpoint |
